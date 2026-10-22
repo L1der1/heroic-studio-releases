@@ -1,7 +1,9 @@
 {
   "minVersion": null,
   "message": "",
-  "downgradeTo": null,
-  "blocked": [],
+  "downgradeTo": "0.1.1",
+  "blocked": [
+    "0.1.2"
+  ],
   "rollout": {}
 }
